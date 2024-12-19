@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects related to MERN
 - 📫 How to reach me
- ``` https://www.linkedin.com/in/prabhjeetsandhu
-```
+ ```https://www.linkedin.com/in/prabhjeetsandhu```
 
 ![Prabhjeet2005's Stats](https://github-readme-stats.vercel.app/api?username=Prabhjeet2005&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
