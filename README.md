@@ -7,7 +7,10 @@
  ```+91 9625770491```
   ```prabhjeetsandhu010@gmail.com```
 
-![Prabhjeet2005's Stats](https://github-readme-stats.vercel.app/api?username=Prabhjeet2005&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+# GitHub Stats
+## ![Prabhjeet2005's Stats](https://github-readme-stats.vercel.app/api?username=prabhjeet2005&theme=radical&show_icons=true&hide_border=false&count_private=true)
+## ![Prabhjeet2005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhjeet2005&theme=radical&hide_border=false)
+## ![Prabhjeet2005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhjeet2005&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 <!---
 Prabhjeet2005/Prabhjeet2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
